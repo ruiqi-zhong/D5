@@ -1,0 +1,3 @@
+The dataset includes {dataset_description}. The two groups are generated based on {generation}. The Group A snippets {A_desc}, while the Group B snippets {B_desc}. 
+
+I am {user}. My goal is to figure out {target}. 

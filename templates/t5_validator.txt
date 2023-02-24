@@ -1,0 +1,6 @@
+Check whether the TEXT satisfies a PROPERTY. Respond with Yes or No. When uncertain, output No. 
+
+Now complete the following example -
+input: PROPERTY: {hypothesis}
+TEXT: {text}
+output:

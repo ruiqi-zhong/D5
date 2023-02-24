@@ -1,0 +1,15 @@
+{A_block}
+
+{B_block}
+
+The dataset includes {dataset_description}. The two groups are generated based on {generation}. The Group A snippets {A_desc}, while the Group B snippets {B_desc}. 
+
+I am {user}. My goal is to figure out {target}. 
+
+Please write a list of hypotheses about the datapoints from Group A (listed by bullet points "-"). Each hypothesis should be formatted as a sentence fragment. Here are three examples.
+- "{example_hypothesis_1}"
+- "{example_hypothesis_2}"
+- "{example_hypothesis_3}"
+
+Based on the two sentence groups (A and B) from the above, more sentences in Group A ...
+- "

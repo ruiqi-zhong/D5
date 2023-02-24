@@ -1,0 +1,19 @@
+Remove the comparatives. Remove mention of Group A or B if they appear.
+
+Input: contain longer sentences than those from group B
+Output: contain long sentences
+
+Input: supports DACA more strongly
+Output: supports DACA strongly
+
+Input: uses the hashtag #AllLivesMatter more often
+Output: uses the hashtag #AllLivesMatter
+
+Input: is more likely to contain grammatical errors
+Output: contain grammatical errors
+
+Input: sounds happier than those from Group B
+Output: sounds happy
+
+Input: {input}
+Output:
