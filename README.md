@@ -50,9 +50,9 @@ Each problem contains:
 
 # Dataset (OpenD5)
 
-Download the 675 problems in our paper from [this link](https://doi.org/10.5281/zenodo.7662705) , which is released under CC BY 4.0 . The downloaded file is a ```.pkl``` file containing a list of problems. 
+Download the 675 problems in our paper from [this link](https://doi.org/10.5281/zenodo.7683302) , and the license information is in the appendix . The downloaded file is a ```.pkl``` file containing a list of problems. 
 We also collected some other problems and due to license constraint you need to download them yourselves by running a script that we will provide you. 
-The instruction to download the dataset can be seen [here](TODO).
+The instruction to download the dataset can be seen [here](https://github.com/petezh/OpenD5).
 
 # D5 System
 
