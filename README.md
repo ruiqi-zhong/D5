@@ -1,5 +1,7 @@
 # Goal-Driven Discovery of Distributional Differences via Language Descriptions
 
+[Paper link](https://arxiv.org/abs/2302.14233)
+
 Authors: Ruiqi Zhong, Peter Zhang, Steve Li, JinWoo Ahn, Dan Klein, Jacob Steinhardt
 
 ![OpenD5](OpenD5Fig1.jpg)
@@ -151,4 +153,22 @@ Run ```python3 sec5/read.py``` to read an example discovery.
 
 Corresponding: ruiqi-zhong@berkeley.edu
 
-TODO
+```
+@misc{https://doi.org/10.48550/arxiv.2302.14233,
+  doi = {10.48550/ARXIV.2302.14233},
+  
+  url = {https://arxiv.org/abs/2302.14233},
+  
+  author = {Zhong, Ruiqi and Zhang, Peter and Li, Steve and Ahn, Jinwoo and Klein, Dan and Steinhardt, Jacob},
+  
+  keywords = {Computation and Language (cs.CL), Artificial Intelligence (cs.AI), Machine Learning (cs.LG), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  
+  title = {Goal Driven Discovery of Distributional Differences via Language Descriptions},
+  
+  publisher = {arXiv},
+  
+  year = {2023},
+  
+  copyright = {Creative Commons Attribution 4.0 International}
+}
+```
